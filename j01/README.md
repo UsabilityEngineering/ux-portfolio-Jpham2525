@@ -2,17 +2,17 @@ I use Adobe Premiere Pro to edit videos and commercials for clients for work in 
 
 Below are two pictures of machines that would cut and paste together strands of film into one timeline to create a movie. This design originates from light tables that were used to look at the frames of the film and cut them into one timeline. This demonstrates how matching from a real-world system to an application. 
 <p align="center">
-  <img src ="../assets/examle1" alt="widget-picture" align="center" width="400"/>
+  <img src ="../assets/example1" alt="widget-picture" align="center" width="400"/>
 </p>
 <p align="center">
-  <img src ="../assets/examle2" alt="widget-picture" align="center" width="400"/>
+  <img src ="../assets/example2" alt="widget-picture" align="center" width="400"/>
 </p>
 Film editing. (2023, September 7). In Wikipedia. https://en.wikipedia.org/wiki/Film_editing
 
 Each row of the software represents a different component of the video from music, to effects, to the video itself. 
 
 <p align="center">
-  <img src ="../assets/examle3" alt="widget-picture" align="center" width="400"/>
+  <img src ="../assets/example3" alt="widget-picture" align="center" width="400"/>
 </p>
 
 This digitally represents those two older machines pictured above. Each row and column represents a specific time and place in the video/movie. This had to be manually and linearly done before computers and software were invented to do this non-linearly.
@@ -21,7 +21,7 @@ In video editing for commercials and other Jobs, most start by importing clips o
 
 
 <p align="center">
-  <img src ="../assets/examle4" alt="widget-picture" align="center" width="400"/>
+  <img src ="../assets/example4" alt="widget-picture" align="center" width="400"/>
 </p>
 
 The picture shows how there is a highlighted clip in clip A while in clip B the blue cursor shows where the video is. The highlighted part should be placed there with a keystroke rather than having to drag the clip onto the timeline and then arrange where it is supposed to go. My mental model of how I expected it to work did not match the conceptual model. 
