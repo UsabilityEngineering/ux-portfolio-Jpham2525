@@ -1,4 +1,4 @@
-I use Adobe Premiere Pro to edit videos and commercials for clients for work in the film and television industry. Premiere is used to edit clips of videos into one cohesive video or video project. Before there was software to do this digitally people would have to go and manually stitch frames of film together as well as colorize and sync the music up. 
+
 
 Below are two pictures of machines that would cut and paste together strands of film into one timeline to create a movie. This design originates from light tables that were used to look at the frames of the film and cut them into one timeline. This demonstrates how matching from a real-world system to an application. 
 <p align="center">
@@ -15,18 +15,18 @@ Each row of the software represents a different component of the video from musi
   <img src ="../assets/example3.png" alt="widget-picture" align="center" width="400"/>
 </p>
 
-This digitally represents those two older machines pictured above. Each row and column represents a specific time and place in the video/movie. This had to be manually and linearly done before computers and software were invented to do this non-linearly.
+The depiction above digitally represents two older machines, where each row and column signifies a specific time and position in a video or movie. In the past, this manual and linear process was necessary before the advent of computers and software that allowed for non-linear editing.
 
-In video editing for commercials and other Jobs, most start by importing clips of their subject onto a separate workstation and go through each clip to start to cut and paste each clip they would need. In modern times we can now simply import clip A into the timeline clip B. From using the Adobe suite I am used to being able to select and then copy and paste. As you can see on the left screen Clip A which is highlighted at the bottom is what should be imported into the main timeline on the right. The issue is that the highlighted part must be dragged into the timeline. This takes a lot of effort as well as takes up a lot of time that could be used elsewhere. 
+In contemporary video editing practices for commercials and various projects, individuals typically initiate the process by importing subject clips onto a dedicated workstation. Editors then manually sift through each clip, engaging in the cut-and-paste process to compile the necessary content. In the Adobe suite, users can import Clip A into the timeline adjacent to Clip B. However, a notable drawback is that the highlighted portion must be manually dragged into the timeline, requiring substantial effort and time investment.
 
 
 <p align="center">
   <img src ="../assets/example4.png" alt="widget-picture" align="center" width="400"/>
 </p>
 
-The picture shows how there is a highlighted clip in clip A while in clip B the blue cursor shows where the video is. The highlighted part should be placed there with a keystroke rather than having to drag the clip onto the timeline and then arrange where it is supposed to go. My mental model of how I expected it to work did not match the conceptual model. 
+The issue becomes apparent in the highlighted section of Clip A, where the blue cursor in Clip B indicates the video's position. The proposed improvement suggests replacing the manual drag-and-drop action with a more efficient keystroke method. This adjustment would align with user expectations, enhancing the workflow of video editing by eliminating the time-consuming process of individually dragging and placing each clip onto the timeline.
 
-By first finding where I wanted to go on Clip B on the main timeline I would solve this issue by selecting everything from the right of the blue cursor and moving it down towards the right. From there I would drag from Clip A onto the main timeline and that would make the process more efficient than having to place clip A onto the timeline and then finding where to put it. 
+To illustrate, a more streamlined workflow involves locating the desired position on Clip B within the main timeline. By selecting everything to the right of the blue cursor and moving it down and to the right, users can then employ a simple click to place Clip A onto the main timeline. This method proves to be more efficient than the traditional approach of dragging Clip A onto the timeline and subsequently searching for the appropriate placement. This feature aligns more closely with users' (**mental models**), as many may expect a straightforward click action to place clips on the timeline, similar to other software interfaces.
 
 
-# First Journal Entry...
+
